@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Computer Science Graduate of the University of the West Indies.<br>🌱 I'm a passionate software developer with a strong focus on Web Development, Software Engineering, AI.<br>⚡I enjoy solving complex problems, building efficient solutions, and continuously learning about the latest technologies in the field of computer science<br>👯 I’m looking to collaborate on any coding project, particularly those which require learning new technologies<br>
+🔭 I am a Computer Science Graduate of the University of the West Indies.<br>🌱 I'm a passionate software developer with a strong focus on Web Development, Software Engineering, AI.<br>⚡I enjoy solving complex problems, building efficient solutions, and continuously learning about the latest technologies in the field of computer science<br>👯 I’m looking to collaborate on any coding project, particularly those which require learning new technologies<br>
 
 
 ## 🌐 Socials:
